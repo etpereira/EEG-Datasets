@@ -26,7 +26,7 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   7. [SEED-VIG](http://bcmi.sjtu.edu.cn/~seed/seed-vig.html): Vigilance labels with EEG data in a simulated driving task. 18 electrodes and eye-tracking included.
   8. [HCI-Tagging](https://mahnob-db.eu/hci-tagging/): Subjetcs were shown video clips (fragments of movies) and they were asked to annotate the emotional state on the scale of valence and arousal. During the whole experiment, audio, video, gaze data and physiological data were recorded simultaneously with accurate synchronisation between sensors.
   9. [Regulation of Arousal](https://ieee-dataport.org/open-access/regulation-arousal-online-neurofeedback-improves-human-performance-demanding-sensory): 18 subjects going through an online flight simulator study with three different audio-feedback silence, sham and BCI. [[Article]](https://www.pnas.org/content/116/13/6482)
-  
+  10. [STEED](https://sites.google.com/computacao.ufcg.edu.br/steed-eeg-dataset/home): Subjects were shown video clips (fragments of movies) from LIRIS-ACCEDE and they were asked to annotate the emotional state on the scale of valence and arousal, as well as the liking. During the whole, experiment EEG signals were recorded.[[Article]](https://ieeexplore.ieee.org/document/8408525)
   
 * **Error-Related Potentials (ErrP)**
   1. [BCI-NER Challenge](https://www.kaggle.com/c/inria-bci-challenge): 26 subjects, 56 EEG Channels for a P300 Speller task, and labeled dataset for the response elicited when P300 decodes a correct or incorrect letter.
